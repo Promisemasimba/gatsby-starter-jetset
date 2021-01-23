@@ -10,10 +10,6 @@ import Footer from "../footer/footer.js";
 export default () => (
   <Layout>
     <Hero />
-    <Nav />
-    <About />
-    <Features />
-    <Contact />
-    <Footer />
+    
   </Layout>
 )
